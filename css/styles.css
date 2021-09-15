@@ -1,5 +1,7 @@
 .cont{
-    margin: 20px;
     background-color: grey;
     padding: 20px;
+}
+.container{
+    margin-top: 20px;
 }
